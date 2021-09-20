@@ -3,7 +3,7 @@ Web scraping, analysis, and visualizations of Spotify dataset, 'spotify_songs.cs
 
 Programming Language: Python
 
-Link to dataframe: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv
+Link to dataframe: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-21
 
 Goal of the data extraction: To analyze rock music in the 1970's
 
